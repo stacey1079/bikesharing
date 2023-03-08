@@ -38,3 +38,8 @@ This map shows that the most active return locations are the same as checkout wh
 Based on these visualizations, it seems that bikesharing in Des Moines would work out great!  It would be best to put rental locations in areas where there are high volumes of residential spaces along with working spaces.  Those seem to be the most convenient locations in order to get people to/from work.  Also, marketing to men to become subscribers seems like it would be a great option.  Based on our results for trip duration, rental locations need to mostly be within a 5 minute bike ride radius as the majority of trips were around that duration.  
 
 Another visual that may be helpful for future analysis would be a trip by age/hour/weekday.  This would help to find out the average age of users in order to help market the bikesharing app.  Also, I think a visual showing the average customer/subscriber by age would be helpful as well so that we can see what the average age of most subscribers are.
+
+
+## Link to Tableau Public Dashboard:
+
+https://public.tableau.com/views/BikesharingChallenge_16778709976840/TopEndingLocations?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
